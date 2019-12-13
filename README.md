@@ -1,4 +1,4 @@
-# CIK react
+# [DEPRECATED] CIK react
 
 tools library to connect flows with react project.
 
